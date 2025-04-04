@@ -3,16 +3,8 @@ pipeline {
 
     environment {
         FILES = """
-            rest_sample.py
-            rest_sample.js
-            RestSample.java
-            RestSample.cs
-            rest_sample.go
-            rest_sample.rb
-            rest_sample.php
-            rest_sample.ts
-            RestSample.kt
-            RestSample.swift
+            Sample.py
+            Sample.java
         """
     }
 
