@@ -3,8 +3,10 @@ pipeline {
 
     environment {
         FILES = """
-            Sample.py
-            Sample.java
+            okhttp.java
+            unirest.java
+            sample.py
+            reqeusts.py
         """
     }
 
