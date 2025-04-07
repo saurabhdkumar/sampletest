@@ -6,7 +6,7 @@ pipeline {
             okhttp.java
             unirest.java
             sample.py
-            reqeusts.py
+            requests.py
         """
     }
 
